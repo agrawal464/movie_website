@@ -1,29 +1,22 @@
-# Movie-Downloader
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/grv97)<br>
-[![time tracker](https://wakatime.com/badge/github/Grv-Singh/Movie-Downloader.svg)](https://wakatime.com/badge/github/Grv-Singh/Movie-Downloader)<br>
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/acad.grv97@gmail.com)<br>
-Automate the process of having mp4 of a movie of your choice, just select.
+Movie Downloader
+A web application that allows users to search and download movies.
 
-IN CASE OF ANY ISSUES,
-CONSIDER UPDATING GOOGLE CHROME AND REPLACING THE EXISTING CHROMEDRIVER WITH THE LATEST RELEASE.
-
-Link to download chromedriver: https://sites.google.com/a/chromium.org/chromedriver/
-
-Runs with Python3 on windows.
-
-Keep both the files (.exe, .py) in the same directory.
-
-Remember to install these python libraries:
-
-  Go to command line, run these code:
-	
-	For beautifulsoup,
-	  pip3 install beautifulsoup
-
-	For re,
-	  pip3 install re
-
-	For selenium,
-	  pip3 install selenium
-
-Chromedriver latest version has been included.
+Features
+Search for movies by title, genre, or year
+Display movie information, including title, poster, and synopsis
+Download movies in various formats (e.g. MP4, AVI, etc.)
+User-friendly interface with responsive design
+Getting Started
+Prerequisites
+A modern web browser (e.g. Google Chrome, Mozilla Firefox)
+A stable internet connection
+Running the Application
+Clone the repository using Git: git clone https://github.com/your-username/movie-downloader.git
+Open the index.html file in a web browser
+Search for a movie using the search bar
+Click on a movie result to view its details
+Click the "Download" button to download the movie
+Technical Details
+Frontend
+Built using HTML5, CSS3, and JavaScript
+Uses Bootstrap 4 for responsive design
